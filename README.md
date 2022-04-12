@@ -15,3 +15,4 @@ https://www.youtube.com/watch?v=OLqD5gffJ8A&t=2s&ab_channel=Gimnaeng
 https://www.youtube.com/watch?v=37JEzDEXdNQ&ab_channel=Ho%C3%A0ngKi%E1%BB%87t
 https://www.youtube.com/watch?v=1bNNQBDeCtY&t=9s&ab_channel=tnbee
 
+Some methods used in the code were stolen off of my professor's site https://www3.ntu.edu.sg/home/ehchua/programming/index.html
